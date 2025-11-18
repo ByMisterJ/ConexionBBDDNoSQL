@@ -1,0 +1,182 @@
+[
+  {
+    "nombre": "Red Bull Racing",
+    "nacionalidad": "Austria",
+    "pilotos": [
+      {
+        "nombre": "Max Verstappen",
+        "numero": 1,
+        "fechaNacimiento": "1997-09-30",
+        "nacionalidad": "Netherlands"
+      },
+      {
+        "nombre": "Sergio Pérez",
+        "numero": 11,
+        "fechaNacimiento": "1990-01-26",
+        "nacionalidad": "Mexico"
+      }
+    ]
+  },
+  {
+    "nombre": "Mercedes-AMG Petronas",
+    "nacionalidad": "Germany",
+    "pilotos": [
+      {
+        "nombre": "Lewis Hamilton",
+        "numero": 44,
+        "fechaNacimiento": "1985-01-07",
+        "nacionalidad": "United Kingdom"
+      },
+      {
+        "nombre": "George Russell",
+        "numero": 63,
+        "fechaNacimiento": "1998-02-15",
+        "nacionalidad": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "nombre": "Ferrari",
+    "nacionalidad": "Italy",
+    "pilotos": [
+      {
+        "nombre": "Charles Leclerc",
+        "numero": 16,
+        "fechaNacimiento": "1997-10-16",
+        "nacionalidad": "Monaco"
+      },
+      {
+        "nombre": "Carlos Sainz",
+        "numero": 55,
+        "fechaNacimiento": "1994-09-01",
+        "nacionalidad": "Spain"
+      }
+    ]
+  },
+  {
+    "nombre": "McLaren",
+    "nacionalidad": "United Kingdom",
+    "pilotos": [
+      {
+        "nombre": "Lando Norris",
+        "numero": 4,
+        "fechaNacimiento": "1999-11-13",
+        "nacionalidad": "United Kingdom"
+      },
+      {
+        "nombre": "Oscar Piastri",
+        "numero": 81,
+        "fechaNacimiento": "2001-04-06",
+        "nacionalidad": "Australia"
+      }
+    ]
+  },
+  {
+    "nombre": "Aston Martin",
+    "nacionalidad": "United Kingdom",
+    "pilotos": [
+      {
+        "nombre": "Fernando Alonso",
+        "numero": 14,
+        "fechaNacimiento": "1981-07-29",
+        "nacionalidad": "Spain"
+      },
+      {
+        "nombre": "Lance Stroll",
+        "numero": 18,
+        "fechaNacimiento": "1998-10-29",
+        "nacionalidad": "Canada"
+      }
+    ]
+  },
+  {
+    "nombre": "Alpine",
+    "nacionalidad": "France",
+    "pilotos": [
+      {
+        "nombre": "Pierre Gasly",
+        "numero": 10,
+        "fechaNacimiento": "1996-02-07",
+        "nacionalidad": "France"
+      },
+      {
+        "nombre": "Esteban Ocon",
+        "numero": 31,
+        "fechaNacimiento": "1996-09-17",
+        "nacionalidad": "France"
+      }
+    ]
+  },
+  {
+    "nombre": "Williams",
+    "nacionalidad": "United Kingdom",
+    "pilotos": [
+      {
+        "nombre": "Alexander Albon",
+        "numero": 23,
+        "fechaNacimiento": "1996-03-23",
+        "nacionalidad": "Thailand"
+      },
+      {
+        "nombre": "Logan Sargeant",
+        "numero": 2,
+        "fechaNacimiento": "2000-12-31",
+        "nacionalidad": "United States"
+      }
+    ]
+  },
+  {
+    "nombre": "Alfa Romeo",
+    "nacionalidad": "Switzerland",
+    "pilotos": [
+      {
+        "nombre": "Valtteri Bottas",
+        "numero": 77,
+        "fechaNacimiento": "1989-08-28",
+        "nacionalidad": "Finland"
+      },
+      {
+        "nombre": "Zhou Guanyu",
+        "numero": 24,
+        "fechaNacimiento": "1999-05-30",
+        "nacionalidad": "China"
+      }
+    ]
+  },
+  {
+    "nombre": "Haas",
+    "nacionalidad": "United States",
+    "pilotos": [
+      {
+        "nombre": "Kevin Magnussen",
+        "numero": 20,
+        "fechaNacimiento": "1992-10-05",
+        "nacionalidad": "Denmark"
+      },
+      {
+        "nombre": "Nico Hulkenberg",
+        "numero": 27,
+        "fechaNacimiento": "1987-08-19",
+        "nacionalidad": "Germany"
+      }
+    ]
+  },
+  {
+    "nombre": "AlphaTauri",
+    "nacionalidad": "Italy",
+    "pilotos": [
+      {
+        "nombre": "Yuki Tsunoda",
+        "numero": 22,
+        "fechaNacimiento": "2000-05-11",
+        "nacionalidad": "Japan"
+      },
+      {
+        "nombre": "Daniel Ricciardo",
+        "numero": 3,
+        "fechaNacimiento": "1989-07-01",
+        "nacionalidad": "Australia"
+      }
+    ]
+  }
+]
